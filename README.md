@@ -55,3 +55,17 @@ Kotlin, Java, Android Studio, MVVM, SQLite, Room, OkHttp, Retrofit, Dagger Hilt,
 - изменения масштаба карты
 
 *Используемые технологии:* MVVM, Yandex Maps, Kotlinx Coroutines, Dagger Hilt, Room, Navigation Fragment, Binding
+
+
+*Проект:* [SeaApp](https://github.com/DmitriyS2/SeaApp)
+
+*Задачи:* Создать Android-игру “Морской бой”
+
+*Используемые технологии:* MVVM, Kotlinx Coroutines, Navigation Fragment, Animation, Binding
+
+
+*Проект:* [weather](https://github.com/DmitriyS2/weather)
+
+*Задачи:* Создать Android-приложение “Погода”
+
+*Используемые технологии:* MVVM, Kotlinx Coroutines, Retrofit, Navigation Fragment, Binding, JavaTime
