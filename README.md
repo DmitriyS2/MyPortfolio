@@ -85,7 +85,7 @@ Kotlin, Java, Android Studio, MVVM, SQLite, Room, OkHttp, Retrofit, Dagger Hilt,
 
 *Задачи:* Создать Android-приложение “Погода”
 
-*Используемые технологии:* MVVM, Kotlinx Coroutines, Retrofit, Navigation Fragment, Binding, JavaTime
+*Используемые технологии:* MVVM, Kotlinx Coroutines, Binding, JavaTime
 
 ![weather](https://github.com/DmitriyS2/MyPortfolio/blob/main/weather.jpeg)
 
