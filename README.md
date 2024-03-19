@@ -3,7 +3,7 @@
 
 email: androiDmit@bk.ru
 
-Telegram: @DmitVict
+Telegram: [@DmitVict](https://t.me/DmitVict)
 
 [Ссылка на GitHub](https://github.com/DmitriyS2)
 
