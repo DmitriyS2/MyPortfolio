@@ -1,7 +1,7 @@
 **Дмитрий Степанов. Android-разработчик**    
 
 
-email: dim116@inbox.ru
+email: androiDmit@bk.ru
 
 Telegram: @DmitVict
 
