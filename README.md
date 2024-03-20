@@ -31,7 +31,7 @@ Kotlin, Java, Android Studio, MVVM, SQLite, Room, OkHttp, Retrofit, Dagger Hilt,
 
 ***Проект:* [eStore](https://github.com/DmitriyS2/eStore_kt)**
 
-*Задачи:* Создать Android-приложение “Онлайн-магазин продуктов” с возможностью 
+*Задачи:* Создать Android-приложение “Онлайн-магазин продуктов” с возможностью: 
 - регистрации, авторизации пользователя (работа с удаленным сервером и Базой данных на устройстве), 
 - хранения истории заказов конкретного пользователя в Базе данных на устройстве,
 - сменой языка (англ/рус)
@@ -44,6 +44,19 @@ Kotlin, Java, Android Studio, MVVM, SQLite, Room, OkHttp, Retrofit, Dagger Hilt,
 ![eStore4](https://github.com/DmitriyS2/MyPortfolio/blob/main/eStore4.jpeg)
 ![eStore5](https://github.com/DmitriyS2/MyPortfolio/blob/main/eStore5.jpeg)
 
+
+***Проект:* [PasswordManager](https://github.com/DmitriyS2/PasswordManager)**
+
+*Задачи:* Создать Android-приложение “Менеджер паролей” с возможностью:
+- регистрации, авторизации пользователя (работа с Базой данных на устройстве),
+- отображения списка сайтов с иконками каждого сайта, которые должны подтягиваться из интернета,
+- шифрования паролей к сайтам и мастер-пароля и хранения их в Базе данных в зашифрованном виде
+
+*Используемые технологии:* MVVM, Kotlinx Coroutines, Dagger Hilt, Room, Navigation Fragment, Glide, Animation, Binding
+
+![passwordManager1](https://github.com/DmitriyS2/MyPortfolio/blob/main/passwordManager1.jpeg)
+![passwordManager2](https://github.com/DmitriyS2/MyPortfolio/blob/main/passwordManager2.jpeg)
+![passwordManager3](https://github.com/DmitriyS2/MyPortfolio/blob/main/passwordManager3.jpeg)
 
 
 ***Проект:* [MyMediaPlayer](https://github.com/DmitriyS2/MyMediaPlayer)**
